@@ -1,0 +1,8 @@
+{
+  "status": "unavailable",
+  "source": "수원도시공사 공개 주차현황",
+  "sourceUrl": "https://parking.suwonudc.co.kr/",
+  "updatedAt": null,
+  "spaces": [],
+  "message": "첫 GitHub Actions 데이터 수집을 기다리는 중입니다. 임의 숫자는 표시하지 않습니다."
+}
