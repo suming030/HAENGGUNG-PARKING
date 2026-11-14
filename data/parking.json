@@ -2,16 +2,16 @@
   "status": "ok",
   "source": "수원도시공사 공개 주차현황",
   "sourceUrl": "https://parking.suwonudc.co.kr/",
-  "updatedAt": "2026-11-13T22:00:14+00:00",
+  "updatedAt": "2026-11-14T02:09:12+00:00",
   "spaces": [
     {
       "id": "hwahong",
-      "free": 370,
+      "free": 299,
       "capacity": 497
     },
     {
       "id": "jangan",
-      "free": 139,
+      "free": 6,
       "capacity": 163
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "id": "yeonmudong",
-      "free": 141,
+      "free": 118,
       "capacity": 158
     }
   ],
